@@ -1,4 +1,5 @@
-# Eclipse
+.quarkus
+.direnv
 .gradle
 /build/
 .project
